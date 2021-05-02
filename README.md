@@ -83,3 +83,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## CUISINEHEIST
+Everyone’s favorite dish or cuisine will be prepared based on a recipe. A recipe is a detailed step by step procedure along with the set of ingredients needed to cook the dish correctly. The recipe will provide details such as the type and number of ingredients needed to cook the dish. It will serve as a convenient guide for everyone who needs help in cooking or those who wish to learn the procedure for a new dish. 
+In our web application, the category of the dish, ingredients required, and procedure will be provided for each dish. It will be an interactive web application allowing the user to add his/her recipes and allow other users to view the newly added recipes. YouTube videos that serve as a cooking tutorial for the dish selected will be displayed. These YouTube videos will be indigenous to the location entered by the user.
